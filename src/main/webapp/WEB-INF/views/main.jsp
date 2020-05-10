@@ -10,9 +10,6 @@
 	Hello world!  
 </h1>
 
-<P>  Hi </P>
-<form action="main"  method="get">
-	<button type="submit">제출</button>
-</form>
+<P> 아이디 : ${user.userId} </P>
 </body>
 </html>
